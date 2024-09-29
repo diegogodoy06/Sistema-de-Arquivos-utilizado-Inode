@@ -30,3 +30,18 @@ O sistema de arquivos utiliza as seguintes estruturas:
    Utilize um compilador C (como `gcc`) para compilar o arquivo:
    ```bash
    gcc -o sistema_arquivos sistema_arquivos.c
+
+
+## Usar os Comandos Acesse o prompt de comando e utilize os seguintes comandos:
+
+- touch nomeArquivo tamanho - Cria um arquivo.
+- chmod nomeArquivo novasPermissoes - Altera as permissões do arquivo.
+- ls - Lista arquivos no diretório atual.
+- mkdir nomeDiretorio - Cria um diretório.
+- link -h origem destino - Cria um link físico.
+- link -s origem destino - Cria um link simbólico.
+- df - Mostra espaço livre e ocupado.
+
+
+## Contribuições
+  Sinta-se à vontade para contribuir com melhorias ou sugestões!
